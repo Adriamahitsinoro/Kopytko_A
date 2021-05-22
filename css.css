@@ -1,5 +1,5 @@
 body{
-	background-color: yellow;
+	background-color: #262A3B;
 }
 #yuumi{
 	margin: auto;
@@ -7,26 +7,31 @@ body{
 	width: 1150px;
 	height: 800px;
 	border-radius: 5%;
-	background-color: brown;
+	background-color: #3C5867;
 	text-align: center;
+	border: 2px solid black;
 }
 #tit{
 	padding: 10px;
+	font-family: 'KoHo', sans-serif;
 }
 .tft{
+	font-family: 'KoHo', 'Newsreader', serif;
 	padding: 20px;
 	float: left;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	margin-left: 48px;
-	width: 40%;
-	background-color: red;
-	border-radius: 40%;
+	width: 460px;
+	height: 20px;
+	background-color: rgb(40.31% 0.52% 20.54%);
+	border-radius: 50%;
 }
 a{
-	color: blue;
+	color: #37F0D7;
 }
 a :hover{
-	background-color: blue;
-	color: red;
+	background-color: #99284B;
+	color: #50C5CF;
+	font-size: 18px;
 }
