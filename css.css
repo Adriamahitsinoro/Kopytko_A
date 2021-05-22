@@ -10,6 +10,7 @@ body{
 	background-color: #3C5867;
 	text-align: center;
 	border: 2px solid black;
+	cursor: crosshair;
 }
 #tit{
 	padding: 10px;
@@ -19,6 +20,7 @@ body{
 	font-family: 'KoHo', 'Newsreader', serif;
 	padding: 20px;
 	float: left;
+	display: inline-block;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	margin-left: 48px;
@@ -26,6 +28,7 @@ body{
 	height: 20px;
 	background-color: rgb(40.31% 0.52% 20.54%);
 	border-radius: 50%;
+	transition: 2s;
 }
 a{
 	color: #37F0D7;
@@ -34,4 +37,34 @@ a :hover{
 	background-color: #99284B;
 	color: #50C5CF;
 	font-size: 18px;
+	cursor: wait;
+}
+.aram{
+	font-family: 'KoHo', 'Newsreader', serif;
+	padding: 10px;
+	float: left;
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	background-color: rgb(40.31% 0.52% 20.54%);
+	border-radius: 50%;
+	transition: 2s;
+}
+#sg{
+	height: 40px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.wyb{
+	width: 460px;
+	margin: auto;
+}
+#pusty{
+	width: 100px;
+	padding: 10px;
+	float: left;
+}
+#tu_jestes{
+	color: #50C5CF;
+	font-size: 17px;
 }
