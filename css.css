@@ -1,7 +1,7 @@
 body{
 	background-color: #262A3B;
 }
-#yuumi{
+.yuumi{
 	margin: auto;
 	margin-top: 5%;
 	width: 1150px;
@@ -11,6 +11,9 @@ body{
 	text-align: center;
 	border: 2px solid black;
 	cursor: crosshair;
+}
+#nom{
+	height: 1020px;
 }
 #tit{
 	padding: 10px;
@@ -67,4 +70,12 @@ a :hover{
 #tu_jestes{
 	color: #50C5CF;
 	font-size: 17px;
+}
+.yes{
+	width: 100%;
+	text-align: center;
+	margin-top: 10px;
+}
+ul{
+	list-style-type: none;
 }
