@@ -1,34 +1,36 @@
 body{
-	background-color: #262A3B;
+	background-image: url(takkk.png);
+	background-repeat: no-repeat;
 }
-.yuumi{
-	margin: auto;
-	margin-top: 5%;
+.main{
 	width: 1150px;
 	height: 800px;
-	border-radius: 5%;
-	background-color: #3C5867;
-	text-align: center;
+	margin: auto;
+	margin-top: 5%;
 	border: 2px solid black;
+	border-radius: 5%;
+	text-align: center;
+	color: white;
+	background-image: url(takkkkk.png);
 	cursor: crosshair;
 }
-#nom{
-	height: 1020px;
-}
-#tit{
+
+.title{
 	padding: 10px;
 	font-family: 'KoHo', sans-serif;
 }
-.tft{
-	font-family: 'KoHo', 'Newsreader', serif;
-	padding: 20px;
-	float: left;
-	display: inline-block;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	margin-left: 48px;
+#tu_jestes{
+	color: #50C5CF;
+	font-size: 17px;
+}
+.button{
 	width: 460px;
 	height: 20px;
+	margin: 30px 0 30px 48px;
+	padding: 20px;
+	display: inline-block;
+	float: left;
+	font-family: 'KoHo', 'Newsreader', serif;
 	background-color: rgb(40.31% 0.52% 20.54%);
 	border-radius: 50%;
 	transition: 2s;
@@ -40,42 +42,50 @@ a :hover{
 	background-color: #99284B;
 	color: #50C5CF;
 	font-size: 18px;
-	cursor: wait;
+	cursor: pointer;
 }
-.aram{
-	font-family: 'KoHo', 'Newsreader', serif;
-	padding: 10px;
-	float: left;
-	display: inline-block;
+.kopytko{
+	width: 100%;
+	margin-top: 10px;
+	text-align: center;
+	color: pink;
+}
+.menu{
+	width: 460px;
+	margin: auto;
+}
+.button2{
 	width: 100px;
 	height: 20px;
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	font-family: 'KoHo', 'Newsreader', serif;
 	background-color: rgb(40.31% 0.52% 20.54%);
 	border-radius: 50%;
 	transition: 2s;
 }
-#sg{
+#main_b{
 	height: 40px;
-	margin-left: 50px;
-	margin-right: 50px;
-}
-.wyb{
-	width: 460px;
-	margin: auto;
+	margin: 0 50px;
 }
 #pusty{
 	width: 100px;
 	padding: 10px;
 	float: left;
 }
-#tu_jestes{
-	color: #50C5CF;
-	font-size: 17px;
-}
-.yes{
-	width: 100%;
-	text-align: center;
-	margin-top: 10px;
-}
 ul{
 	list-style-type: none;
+	font: 17px 'Newsreader';
+	line-height: 1.2;
+}
+p{
+	font: 18px 'Newsreader';
+	line-height: 1.4;
+}
+#s1{
+	height: 1080px;
+}
+#s6{
+	height: 990px;
 }
