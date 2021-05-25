@@ -1,6 +1,5 @@
 body{
-	background-image: url(takkk.png);
-	background-repeat: no-repeat;
+	background-color: #009183;
 }
 .main{
 	width: 1150px;
@@ -11,7 +10,7 @@ body{
 	border-radius: 5%;
 	text-align: center;
 	color: white;
-	background-image: url(takkkkk.png);
+	background-color: #005080;
 	cursor: crosshair;
 }
 
@@ -50,6 +49,7 @@ a :hover{
 	text-align: center;
 	color: pink;
 }
+/*podstrony*/
 .menu{
 	width: 460px;
 	margin: auto;
@@ -86,6 +86,37 @@ p{
 #s1{
 	height: 1080px;
 }
+#s4{
+	height: 950px;
+}
+#s5{
+	height: 2500px;
+}
 #s6{
-	height: 990px;
+	height: 1080px;
+}
+#s7{
+	height: 1970px;
+}
+#s8{
+	height: 2750PX;
+}
+/*wymiary obrazów na stronach*/
+.w1{
+	width: 1000px;
+}
+.w2{
+	width: 400px;
+}
+.w3{
+	width: 70px;
+}
+.w4{
+	width: 800px;
+}
+.w5{
+	width: 250px;
+}
+.w6{
+	width: 600px;
 }
