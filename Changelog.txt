@@ -1,0 +1,53 @@
+v1
+- stworzenie repozytorium na platformie GitHub
+- dodanie podstawowej wersji strony
+
+v2
+- zmiana kolorystyki strony
+- zmiana wyglądu poprzez zmiany w css
+- stworzenie ikony strony
+
+v3
+- dodano podstrony
+- zanimowano przyciski na stronach
+
+v4
+- zmiana kolorystyki tła strony
+- poprawienie wyglądu przycisków na stronach
+- zmiana czcionek, i koloru tekstów
+- wprowadzenie zawartości do strony 'O nas'
+
+v5
+- poprawienie css-a
+- dodanie artykułów do podstron
+- zmiana tła strony na obrazkowe
+
+v6
+- zmiana struktury plików strony
+- poprawki w css
+- dodanie obrazków do strony
+- dodanie filmików
+- zmiana tła z obrazkowego na kolor
+- zmiana kursorów
+
+v7
+- poprawki zaistniałych problemów z obrazkami
+- poprawiono błędy w artykułach
+- poprawienie przycisków na stronach
+- poprawienie zaokrągleń div-ów
+- częściowe usupełnienie stron 'O projekcie' i 'Dodatkowa zawartość'
+- dodanie gry
+- zmiany w wyglądzie strony z grą
+
+v8
+- ostateczne naprawienie problemów z obrazkami
+- ostateczna zmiana tła
+- zmiana kolorów tekstu
+- poprawa strony 'Dodatkowa zawartość'
+- ponowne poprawienie css
+- poprawiono strukturę stron
+- stworzenie wersji docx
+
+v9
+- parę zmian na stronie 'O projekcie'
+- zmiana nazwy repozytorium
